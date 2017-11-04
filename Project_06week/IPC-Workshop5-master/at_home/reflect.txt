@@ -1,0 +1,4 @@
+1. The advantages of using an array of structs is I do not need to add more arrays in the main functions. By declaring them in a struct, I can keep using and adding new values.
+
+
+2. The advantage of header file is I can use my struct from the header to in any other programs for programming by calling the header file. However, if I declared my struct in my program, I can use only in current program.

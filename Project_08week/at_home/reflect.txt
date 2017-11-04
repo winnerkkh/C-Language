@@ -1,0 +1,5 @@
+1. Passing value is that we pass the address and change the value itself instead of changing a copy of the value and returning it.
+
+2. Dereference is the term to obtain the address of the value rather than obtaining what the value is equal to.  In my case, I used dereference through the “decompose” function to obtain the address of certain values because we are unable to return them.
+
+3. A pointer variable includes the address of its variable. Thus, when I use the pointer variable, it does not indicate the value but references the value in the address.  For example, int *p;, a=20;, *p = &a this says that *p would like to reference the value in the location(address) of a.

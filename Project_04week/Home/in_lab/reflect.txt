@@ -1,0 +1,5 @@
+1. There are three types of iteration constructs, 1. do 2. while 3. for
+
+2.Do while checks the condition at the bottom and runs the sequence at least once, but while loop checks the condition before running the sequence.
+
+3.Conditional expression is an expression that is tested to get true or false and then either excute or do nothing depending on what is written after.

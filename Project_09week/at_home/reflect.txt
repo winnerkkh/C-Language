@@ -1,0 +1,8 @@
+1) When passing an array to a function is it "by address" or "by value" - explain.
+- It is passing by address because it is inefficient to copy arrays by value because when array is very large, the processing power required is very inefficient compared to passing by address. Passing by address is more efficient because it does not require entire array to be passed to the function.
+
+2) Explain why functions with an array parameter are usually complemented with an additional integer parameter (reference specifics in this workshop to explain your answer).
+- In my workshop, check price uses the integer size as indicator to the size of the array. 
+
+3) Why do some of the functions in this workshop specify "const" for the array parameters and not in others?
+- Some functions specify const for array parameters when the programmers do not want to change 

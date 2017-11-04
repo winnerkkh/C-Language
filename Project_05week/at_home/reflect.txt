@@ -1,0 +1,5 @@
+1.	We do not know what the users want to find how many days. Thus, by using array, we can give the users to a choice up to 10 days.
+
+2.	Matching arrays are hard to manage, each time we add another field, we have to add another array that takes time and might make a little confusion to distinguish the syntax. However, better advantage is that execution takes less time to finish
+
+3.	I felt it was hard to finish home portion of the workshop because I started to work on it orderly without pseudo code. However, I just realized how pseudo code is important to me in advance when I started to code through this workshop. After drawing pseudo code, I was able to capture big picture of process.

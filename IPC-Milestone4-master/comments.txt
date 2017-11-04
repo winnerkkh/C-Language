@@ -1,0 +1,20 @@
+Citation:
+
+I referenced from some learnings and reviewing through youtube video clips and websites as below; however, I did not copy the code form anywhere.
+
+*Yotube video clips links
+
+- https://www.youtube.com/watch?v=8E2B16-VEhU&list=PL1IheunyylbZ7TPhz6R47MCPW2K9X4x2I
+- https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
+
+*Websites
+- https://scs.senecac.on.ca/~ipc144/pages/timeline.html
+- http://ijj.kr/220187234329
+- https://www.lynda.com/C-tutorials/C-Essential-Training/164457-2.html?utm_source=google&utm_medium=cpc&utm_campaign=l1-US-Search-Dev-C&cid=l1-us:en:ps:lp:prosc:s50:1249:all:google:mbm-learning_c&utm_content=109527682146&utm_term=%2Blearning%20%2Bc&src=go-pa&veh=skwd-29078561989_pcrid_109527682146_pkw_%2Blearning%20%2Bc_pmt_b_pdv_c_ext__plc__trg__agid_4608853386_cmid_97547466_adp_1t1_net_g&lpk35=9137
+- http://fresh2refresh.com/c-programming/
+
+
+Enhancements:
+
+I mostly followed the instructions, and there are no any features in specifications in mileston assignment.
+

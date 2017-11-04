@@ -1,0 +1,13 @@
+﻿  bookstore_v2_in_lab.c
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(173): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(200): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+e:\college\ipc144\project_10week\ipc-workshop9-master\in_lab\bookstore_v2_in_lab.c(158): warning C4716: 'searchInventory': must return a value
+  in_lab.vcxproj -> E:\College\IPC144\Project_10week\IPC-Workshop9-master\in_lab\Debug\in_lab.exe
+  in_lab.vcxproj -> E:\College\IPC144\Project_10week\IPC-Workshop9-master\in_lab\Debug\in_lab.pdb (Full PDB)
